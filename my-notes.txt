@@ -1,0 +1,7 @@
+//the article I had been following to get my react stuff online
+https://medium.freecodecamp.org/i-built-this-now-what-how-to-deploy-a-react-app-on-a-digitalocean-droplet-662de0fe3f48
+
+// connect to my droplet
+ssh root@142.93.13.199
+
+your password is your normal password using 'bash'
