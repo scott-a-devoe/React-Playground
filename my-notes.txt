@@ -1,7 +1,28 @@
 //the article I had been following to get my react stuff online
 https://medium.freecodecamp.org/i-built-this-now-what-how-to-deploy-a-react-app-on-a-digitalocean-droplet-662de0fe3f48
 
-// connect to my droplet
+// command line command used to connect to my droplet on Digital Ocean
 ssh root@142.93.13.199
 
 your password is your normal password using 'bash'
+
+
+
+
+// workflow
+change files
+sudo git add .
+git status
+git commit -m "message"
+git push
+
+//also
+git clone <https repo reference>
+rm <filename> (remove a filename)
+touch <filename> (create a new file)
+
+// more
+https://github.com/joshnh/Git-Commands
+
+// available react command line commands (from create-react-app?)
+https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#available-scripts
