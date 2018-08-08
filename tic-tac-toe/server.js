@@ -17,6 +17,6 @@ app.get('/*', function (req, res) {
 
 //app.use(express.static(path.join(__dirname, 'build')));
 
-const server = app.listen(3000, function() {
+const server = app.listen(80, function() {
     console.log('listening . . .');
 });

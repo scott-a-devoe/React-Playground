@@ -23,7 +23,7 @@ git push
 // switch to server (ssh root@142.93.13.199)
 git pull
 
-// start your server
+// start your server (nodejs <filename of server file>)
 
 
 //also
